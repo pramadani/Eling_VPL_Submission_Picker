@@ -1,0 +1,5 @@
+NT.java:37: error: missing return statement
+    }
+    ^
+1 error
+Not compiled

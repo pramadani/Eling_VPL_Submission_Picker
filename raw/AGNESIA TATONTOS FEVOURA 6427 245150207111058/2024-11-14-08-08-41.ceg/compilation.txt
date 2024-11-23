@@ -1,0 +1,41 @@
+NT.java:23: error: illegal start of expression
+static void double akhir(Double tambah, Double kurang, Double kali, Double bagi)    
+^
+NT.java:23: error: <identifier> expected
+static void double akhir(Double tambah, Double kurang, Double kali, Double bagi)    
+           ^
+NT.java:23: error: '(' expected
+static void double akhir(Double tambah, Double kurang, Double kali, Double bagi)    
+            ^
+NT.java:23: error: ';' expected
+static void double akhir(Double tambah, Double kurang, Double kali, Double bagi)    
+                                                                                ^
+NT.java:26: error: invalid method declaration; return type required
+        kurang(input[2]);
+        ^
+NT.java:26: error: ']' expected
+        kurang(input[2]);
+                     ^
+NT.java:27: error: invalid method declaration; return type required
+        kali(input[3]);
+        ^
+NT.java:27: error: ']' expected
+        kali(input[3]);
+                   ^
+NT.java:28: error: invalid method declaration; return type required
+        bagi(input[4]);
+        ^
+NT.java:28: error: ']' expected
+        bagi(input[4]);
+                   ^
+NT.java:29: error: invalid method declaration; return type required
+        output(akhir());
+        ^
+NT.java:29: error: <identifier> expected
+        output(akhir());
+                    ^
+NT.java:31: error: class, interface, enum, or record expected
+}
+^
+13 errors
+Not compiled

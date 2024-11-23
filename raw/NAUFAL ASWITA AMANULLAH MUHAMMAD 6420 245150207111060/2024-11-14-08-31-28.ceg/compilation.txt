@@ -1,0 +1,32 @@
+NT.java:23: error: cannot find symbol
+		 awal=in.nextInt();
+		 ^
+  symbol:   variable awal
+  location: class NT
+NT.java:24: error: cannot find symbol
+		 tambah=in.nextInt();
+		 ^
+  symbol:   variable tambah
+  location: class NT
+NT.java:25: error: cannot find symbol
+		 kurang=in.nextInt();
+		 ^
+  symbol:   variable kurang
+  location: class NT
+NT.java:26: error: cannot find symbol
+		 kali=in.nextInt();
+		 ^
+  symbol:   variable kali
+  location: class NT
+NT.java:27: error: cannot find symbol
+		 bagi=in.nextInt();
+		 ^
+  symbol:   variable bagi
+  location: class NT
+NT.java:35: error: cannot find symbol
+		int akhir=bagi(d)/2;
+		               ^
+  symbol:   variable d
+  location: class NT
+6 errors
+Not compiled

@@ -1,0 +1,5 @@
+NT.java:69: error: reached end of file while parsing
+    }
+     ^
+1 error
+Not compiled

@@ -1,0 +1,10 @@
+NT.java:11: error: class LiveCodingMethod is public, should be declared in a file named LiveCodingMethod.java
+public class LiveCodingMethod {
+       ^
+NT.java:38: error: cannot find symbol
+        double[] angka = helpInput();
+                         ^
+  symbol:   method helpInput()
+  location: class LiveCodingMethod
+2 errors
+Not compiled

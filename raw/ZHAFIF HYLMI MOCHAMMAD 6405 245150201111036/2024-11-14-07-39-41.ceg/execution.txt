@@ -1,0 +1,15 @@
+Testing 1/5 : case1
+Testing 2/5 : case2
+Testing 3/5 : case3
+Testing 4/5 : case4
+Testing 5/5 : case5
+
+<|--
+-Summary of tests
+>+------------------------------+
+>|  5 tests run/ 5 tests passed |
+>+------------------------------+
+
+--|>
+
+Grade :=>>100

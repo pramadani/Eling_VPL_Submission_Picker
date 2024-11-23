@@ -1,0 +1,7 @@
+NT.java:21: error: cannot find symbol
+            switch (i % panjang) {
+                        ^
+  symbol:   variable panjang
+  location: class NT
+1 error
+Not compiled

@@ -1,0 +1,7 @@
+NT.java:8: error: cannot find symbol
+        double[]input = input();
+                        ^
+  symbol:   method input()
+  location: class NT
+1 error
+Not compiled

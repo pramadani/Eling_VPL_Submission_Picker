@@ -1,0 +1,7 @@
+NT.java:17: error: cannot find symbol
+        angkaawal = masuk[0];
+                    ^
+  symbol:   variable masuk
+  location: class NT
+1 error
+Not compiled

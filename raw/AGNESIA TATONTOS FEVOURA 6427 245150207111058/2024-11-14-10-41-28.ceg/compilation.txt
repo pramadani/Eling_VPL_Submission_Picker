@@ -1,0 +1,53 @@
+NT.java:28: error: illegal start of expression
+    static double awal = input[0];
+    ^
+NT.java:32: error: class, interface, enum, or record expected
+    public static double tambah (double input, double[] bil){
+                  ^
+NT.java:35: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:36: error: class, interface, enum, or record expected
+    public static double kurang (double input){
+                  ^
+NT.java:38: error: class, interface, enum, or record expected
+        return hKurang - input;
+        ^
+NT.java:39: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:40: error: class, interface, enum, or record expected
+    public static double kali (double input){
+                  ^
+NT.java:42: error: class, interface, enum, or record expected
+        return hKali * input;
+        ^
+NT.java:43: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:44: error: class, interface, enum, or record expected
+    public static double bagi (double input) {
+                  ^
+NT.java:46: error: class, interface, enum, or record expected
+        return hBagi / input;
+        ^
+NT.java:47: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:49: error: class, interface, enum, or record expected
+    public static double akhir (){
+                  ^
+NT.java:51: error: class, interface, enum, or record expected
+        return hAkhir / 2;
+        ^
+NT.java:52: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:54: error: class, interface, enum, or record expected
+    public static double output(double akhir){
+                  ^
+NT.java:56: error: class, interface, enum, or record expected
+    }
+    ^
+17 errors
+Not compiled

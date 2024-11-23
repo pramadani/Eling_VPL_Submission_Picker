@@ -1,0 +1,50 @@
+NT.java:22: error: illegal start of expression
+        private double hasil;
+        ^
+NT.java:33: error: <identifier> expected
+        kalkulator.inputAngkaAwal(angkaAwal);
+                                 ^
+NT.java:33: error: <identifier> expected
+        kalkulator.inputAngkaAwal(angkaAwal);
+                                           ^
+NT.java:34: error: <identifier> expected
+        kalkulator.tambah(angkaTambah);
+                         ^
+NT.java:34: error: <identifier> expected
+        kalkulator.tambah(angkaTambah);
+                                     ^
+NT.java:35: error: <identifier> expected
+        kalkulator.kurang(angkaKurang);
+                         ^
+NT.java:35: error: <identifier> expected
+        kalkulator.kurang(angkaKurang);
+                                     ^
+NT.java:36: error: <identifier> expected
+        kalkulator.kali(angkaKali);
+                       ^
+NT.java:36: error: <identifier> expected
+        kalkulator.kali(angkaKali);
+                                 ^
+NT.java:37: error: <identifier> expected
+        kalkulator.bagi(angkaBagi);
+                       ^
+NT.java:37: error: <identifier> expected
+        kalkulator.bagi(angkaBagi);
+                                 ^
+NT.java:40: error: <identifier> expected
+        System.out.println(kalkulator.akhir());
+                          ^
+NT.java:40: error: <identifier> expected
+        System.out.println(kalkulator.akhir());
+                                           ^
+NT.java:43: error: <identifier> expected
+        scanner.close();
+                     ^
+NT.java:47: error: illegal start of expression
+    public void inputAngkaAwal(double angka) {
+    ^
+NT.java:109: error: class, interface, enum, or record expected
+    }
+    ^
+16 errors
+Not compiled

@@ -1,0 +1,5 @@
+NT.java:43: error: ')' expected
+        double hBagi = kali(bil[3], bil]);
+                                       ^
+1 error
+Not compiled

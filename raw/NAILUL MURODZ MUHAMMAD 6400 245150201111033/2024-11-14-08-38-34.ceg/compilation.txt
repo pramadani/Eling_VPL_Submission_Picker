@@ -1,0 +1,12 @@
+NT.java:16: error: cannot find symbol
+        Main main = new Main();
+        ^
+  symbol:   class Main
+  location: class NT
+NT.java:16: error: cannot find symbol
+        Main main = new Main();
+                        ^
+  symbol:   class Main
+  location: class NT
+2 errors
+Not compiled

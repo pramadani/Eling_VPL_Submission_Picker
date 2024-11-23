@@ -1,0 +1,5 @@
+NT.java:8: error: incompatible types: double cannot be converted to double[]
+        double[]input = input();
+                             ^
+1 error
+Not compiled

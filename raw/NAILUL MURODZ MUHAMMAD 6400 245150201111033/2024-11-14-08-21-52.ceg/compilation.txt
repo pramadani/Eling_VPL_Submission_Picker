@@ -1,0 +1,5 @@
+NT.java:68: error: non-static variable this cannot be referenced from a static context
+        Calculator calc = new Calculator();
+                          ^
+1 error
+Not compiled

@@ -1,0 +1,12 @@
+NT.java:34: error: cannot find symbol
+        Scanner scanner = new Scanner(System.in);
+        ^
+  symbol:   class Scanner
+  location: class NT
+NT.java:34: error: cannot find symbol
+        Scanner scanner = new Scanner(System.in);
+                              ^
+  symbol:   class Scanner
+  location: class NT
+2 errors
+Not compiled

@@ -1,0 +1,23 @@
+NT.java:67: error: class, interface, enum, or record expected
+    public static void main(String[] args) {
+                  ^
+NT.java:69: error: class, interface, enum, or record expected
+        tambah(input[1]);
+        ^
+NT.java:70: error: class, interface, enum, or record expected
+        kurang(input[2]);
+        ^
+NT.java:71: error: class, interface, enum, or record expected
+        kali(input[3]);
+        ^
+NT.java:72: error: class, interface, enum, or record expected
+        bagi(input[4]);
+        ^
+NT.java:73: error: class, interface, enum, or record expected
+        output(akhir());
+        ^
+NT.java:74: error: class, interface, enum, or record expected
+    }
+    ^
+7 errors
+Not compiled

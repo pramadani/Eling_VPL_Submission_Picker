@@ -1,0 +1,8 @@
+NT.java:8: error: incompatible types: double cannot be converted to double[]
+        double[]input = input();
+                             ^
+NT.java:22: error: non-static variable in cannot be referenced from a static context
+            input[i] = in.nextDouble();
+                       ^
+2 errors
+Not compiled

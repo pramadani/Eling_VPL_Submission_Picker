@@ -1,0 +1,30 @@
+NT.java:7: error: cannot find symbol
+        double[] input = input();
+                         ^
+  symbol:   method input()
+  location: class NT
+NT.java:9: error: cannot find symbol
+        kurang(input[2]);
+        ^
+  symbol:   method kurang(double)
+  location: class NT
+NT.java:10: error: cannot find symbol
+        kali(input[3]);
+        ^
+  symbol:   method kali(double)
+  location: class NT
+NT.java:11: error: cannot find symbol
+        bagi(input[4]);
+        ^
+  symbol:   method bagi(double)
+  location: class NT
+NT.java:12: error: cannot find symbol
+        output(akhir());
+               ^
+  symbol:   method akhir()
+  location: class NT
+NT.java:19: error: incompatible types: double cannot be converted to double[]
+        return awal;
+               ^
+6 errors
+Not compiled

@@ -1,0 +1,17 @@
+NT.java:19: error: ']' expected
+    public static double tambah(input[1]) {
+                                      ^
+NT.java:23: error: ']' expected
+    public static double kurang(input[2]) {
+                                      ^
+NT.java:27: error: ']' expected
+    public static double kali(input[3]) {
+                                    ^
+NT.java:31: error: ']' expected
+    public static double bagi(input[4]) {
+                                    ^
+NT.java:35: error: <identifier> expected
+    public static double output(akhir()) {
+                                     ^
+5 errors
+Not compiled

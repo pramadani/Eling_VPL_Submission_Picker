@@ -1,0 +1,5 @@
+NT.java:40: error: illegal start of expression
+        hasil =/ 2;
+               ^
+1 error
+Not compiled

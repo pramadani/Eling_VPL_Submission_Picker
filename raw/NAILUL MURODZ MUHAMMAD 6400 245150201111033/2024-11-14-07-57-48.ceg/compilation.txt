@@ -1,0 +1,17 @@
+NT.java:27: error: <identifier> expected
+    private static double[] input(input[]){
+                                         ^
+NT.java:28: error: ';' expected
+        double input
+                    ^
+NT.java:30: error: illegal start of type
+  import java.util.Scanner;
+  ^
+NT.java:30: error: <identifier> expected
+  import java.util.Scanner;
+                          ^
+NT.java:99: error: class, interface, enum, or record expected
+}
+^
+5 errors
+Not compiled

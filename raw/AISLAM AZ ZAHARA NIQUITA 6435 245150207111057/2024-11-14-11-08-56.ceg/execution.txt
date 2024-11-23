@@ -1,0 +1,38 @@
+Testing 1/5 : case1
+Testing 2/5 : case2
+Testing 3/5 : case3
+Testing 4/5 : case4
+Testing 5/5 : case5
+
+<|--
+-Failed tests
+Test 1: case1
+Test 2: case2
+Test 3: case3
+Test 5: case5
+--|>
+
+<|--
+-Test 1: case1 (-20.000)
+Output salah! Perbaiki yahhh, Semangat!
+
+-Test 2: case2 (-20.000)
+Output salah! Perbaiki yahhh, Semangat!
+
+-Test 3: case3 (-20.000)
+Output salah! Perbaiki yahhh, Semangat!
+
+-Test 5: case5 (-20.000)
+Output salah! Perbaiki yahhh, Semangat!
+
+--|>
+
+<|--
+-Summary of tests
+>+------------------------------+
+>|  5 tests run/ 1  test passed |
+>+------------------------------+
+
+--|>
+
+Grade :=>>20

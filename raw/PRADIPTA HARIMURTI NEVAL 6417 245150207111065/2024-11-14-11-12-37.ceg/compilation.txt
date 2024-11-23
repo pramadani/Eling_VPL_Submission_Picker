@@ -1,0 +1,12 @@
+NT.java:20: error: cannot find symbol
+        angAwal = input[0];
+        ^
+  symbol:   variable angAwal
+  location: class NT
+NT.java:20: error: cannot find symbol
+        angAwal = input[0];
+                  ^
+  symbol:   variable input
+  location: class NT
+2 errors
+Not compiled

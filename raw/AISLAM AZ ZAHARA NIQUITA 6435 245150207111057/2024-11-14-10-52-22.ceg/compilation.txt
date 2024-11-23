@@ -1,0 +1,5 @@
+NT.java:39: error: illegal start of expression
+    private static void output(double hasil) {
+    ^
+1 error
+Not compiled

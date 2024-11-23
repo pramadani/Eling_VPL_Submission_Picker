@@ -1,0 +1,5 @@
+NT.java:44: error: ';' expected
+        mengembalikan nilai / 2;
+                           ^
+1 error
+Not compiled

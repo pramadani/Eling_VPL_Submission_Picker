@@ -1,0 +1,31 @@
+NT.java:21: error: cannot find symbol
+        input = new double[5];
+        ^
+  symbol:   variable input
+  location: class NT
+NT.java:24: error: cannot find symbol
+            input [i] = in.nextDouble();
+            ^
+  symbol:   variable input
+  location: class NT
+NT.java:25: error: cannot find symbol
+         return input;
+                ^
+  symbol:   variable input
+  location: class NT
+NT.java:36: error: array required, but double found
+        double hKurang = tambah(input[1], input);
+                                     ^
+NT.java:40: error: array required, but double found
+        double hKali = kurang(input[2]);
+                                   ^
+NT.java:44: error: array required, but double found
+        double hBagi = kali(input[3]);
+                                 ^
+NT.java:49: error: cannot find symbol
+        double hAkhir = bagi(input[4]);
+                             ^
+  symbol:   variable input
+  location: class NT
+7 errors
+Not compiled

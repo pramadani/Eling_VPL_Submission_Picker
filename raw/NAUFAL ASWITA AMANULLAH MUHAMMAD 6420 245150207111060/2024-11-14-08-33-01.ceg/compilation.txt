@@ -1,0 +1,5 @@
+NT.java:35: error: variable akhir might not have been initialized
+		int akhir=bagi(akhir)/2;
+		               ^
+1 error
+Not compiled

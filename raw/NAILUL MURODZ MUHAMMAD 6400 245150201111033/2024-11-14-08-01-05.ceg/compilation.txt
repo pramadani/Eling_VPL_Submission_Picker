@@ -1,0 +1,8 @@
+NT.java:43: error: illegal start of expression
+    private double angkaAwal;
+    ^
+NT.java:108: error: class, interface, enum, or record expected
+    }
+    ^
+2 errors
+Not compiled

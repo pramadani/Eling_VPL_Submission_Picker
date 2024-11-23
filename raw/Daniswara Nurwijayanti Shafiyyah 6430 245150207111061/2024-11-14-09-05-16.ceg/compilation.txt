@@ -1,0 +1,17 @@
+NT.java:12: error: illegal start of type
+     package lathckrank;
+     ^
+NT.java:12: error: <identifier> expected
+     package lathckrank;
+                       ^
+NT.java:13: error: illegal start of type
+import java.util.Scanner;
+^
+NT.java:13: error: <identifier> expected
+import java.util.Scanner;
+                        ^
+NT.java:72: error: reached end of file while parsing
+}
+ ^
+5 errors
+Not compiled

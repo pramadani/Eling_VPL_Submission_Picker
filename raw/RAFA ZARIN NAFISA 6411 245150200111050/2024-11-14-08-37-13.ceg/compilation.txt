@@ -1,0 +1,8 @@
+NT.java:14: error: <identifier> expected
+        System.out.printf("%.2f%n", hasilAkhir);
+                         ^
+NT.java:14: error: illegal start of type
+        System.out.printf("%.2f%n", hasilAkhir);
+                          ^
+2 errors
+Not compiled

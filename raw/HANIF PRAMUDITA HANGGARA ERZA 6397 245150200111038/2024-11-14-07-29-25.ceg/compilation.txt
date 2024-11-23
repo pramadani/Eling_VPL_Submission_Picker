@@ -1,0 +1,11 @@
+NT.java:27: error: not a statement
+        double = sum - a[a];
+        ^
+NT.java:27: error: ';' expected
+        double = sum - a[a];
+              ^
+NT.java:27: error: not a statement
+        double = sum - a[a];
+                     ^
+3 errors
+Not compiled

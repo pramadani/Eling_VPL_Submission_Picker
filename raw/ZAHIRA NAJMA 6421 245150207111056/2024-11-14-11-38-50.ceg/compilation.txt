@@ -1,0 +1,5 @@
+NT.java:11: error: class Fight is public, should be declared in a file named Fight.java
+public class Fight {
+       ^
+1 error
+Not compiled

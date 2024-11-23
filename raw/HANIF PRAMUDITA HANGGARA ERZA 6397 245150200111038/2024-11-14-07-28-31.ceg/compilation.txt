@@ -1,0 +1,98 @@
+NT.java:17: error: cannot find symbol
+            a[i]=input.nextDouble;
+                 ^
+  symbol:   variable input
+  location: class NT
+NT.java:22: error: cannot find symbol
+        sum = a[0] + a[a];
+        ^
+  symbol:   variable sum
+  location: class NT
+NT.java:22: error: array required, but int found
+        sum = a[0] + a[a];
+               ^
+NT.java:22: error: array required, but int found
+        sum = a[0] + a[a];
+                      ^
+NT.java:23: error: cannot find symbol
+        return sum;
+               ^
+  symbol:   variable sum
+  location: class NT
+NT.java:27: error: cannot find symbol
+        red = sum - a[a];
+        ^
+  symbol:   variable red
+  location: class NT
+NT.java:27: error: cannot find symbol
+        red = sum - a[a];
+              ^
+  symbol:   variable sum
+  location: class NT
+NT.java:27: error: array required, but int found
+        red = sum - a[a];
+                     ^
+NT.java:28: error: cannot find symbol
+        return red;
+               ^
+  symbol:   variable red
+  location: class NT
+NT.java:32: error: cannot find symbol
+        tms = red * a[a];
+        ^
+  symbol:   variable tms
+  location: class NT
+NT.java:32: error: cannot find symbol
+        tms = red * a[a];
+              ^
+  symbol:   variable red
+  location: class NT
+NT.java:32: error: array required, but int found
+        tms = red * a[a];
+                     ^
+NT.java:33: error: cannot find symbol
+        return tms;
+               ^
+  symbol:   variable tms
+  location: class NT
+NT.java:37: error: cannot find symbol
+        div = tms / a[a];
+        ^
+  symbol:   variable div
+  location: class NT
+NT.java:37: error: cannot find symbol
+        div = tms / a[a];
+              ^
+  symbol:   variable tms
+  location: class NT
+NT.java:37: error: array required, but int found
+        div = tms / a[a];
+                     ^
+NT.java:38: error: cannot find symbol
+        return div;
+               ^
+  symbol:   variable div
+  location: class NT
+NT.java:42: error: cannot find symbol
+        System.out.print(div);
+                         ^
+  symbol:   variable div
+  location: class NT
+NT.java:47: error: incompatible types: possible lossy conversion from double to int
+        tambah(input[1]);
+                    ^
+NT.java:48: error: incompatible types: possible lossy conversion from double to int
+        kurang(input[2]);
+                    ^
+NT.java:49: error: incompatible types: possible lossy conversion from double to int
+        kali(input[3]);
+                  ^
+NT.java:50: error: incompatible types: possible lossy conversion from double to int
+        bagi(input[4]);
+                  ^
+NT.java:51: error: 'void' type not allowed here
+        output(akhir());
+                    ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+23 errors
+Not compiled

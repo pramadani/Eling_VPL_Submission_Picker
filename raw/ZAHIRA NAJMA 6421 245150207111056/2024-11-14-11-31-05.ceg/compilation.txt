@@ -1,0 +1,5 @@
+NT.java:16: error: ';' expected
+        double[] nilaiMasuk = new double[5]
+                                           ^
+1 error
+Not compiled

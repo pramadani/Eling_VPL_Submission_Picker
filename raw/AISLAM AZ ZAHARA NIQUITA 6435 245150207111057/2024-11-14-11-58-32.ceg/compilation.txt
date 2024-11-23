@@ -1,0 +1,80 @@
+NT.java:1: error: class, interface, enum, or record expected
+ private static double nilaiAwal; 
+                ^
+NT.java:2: error: class, interface, enum, or record expected
+    private static double[] array;
+                   ^
+NT.java:3: error: class, interface, enum, or record expected
+    public static void main(String[] args) {
+                  ^
+NT.java:6: error: class, interface, enum, or record expected
+        System.out.print("Masukkan nilai awal: ");
+        ^
+NT.java:7: error: class, interface, enum, or record expected
+        double nilai = input.nextDouble();
+        ^
+NT.java:10: error: class, interface, enum, or record expected
+        array = new double[5]; 
+        ^
+NT.java:11: error: class, interface, enum, or record expected
+        for (int i = 0; i < 5; i++) {
+        ^
+NT.java:11: error: class, interface, enum, or record expected
+        for (int i = 0; i < 5; i++) {
+                        ^
+NT.java:11: error: class, interface, enum, or record expected
+        for (int i = 0; i < 5; i++) {
+                               ^
+NT.java:13: error: class, interface, enum, or record expected
+            array[i] = input.nextDouble(); 
+            ^
+NT.java:14: error: class, interface, enum, or record expected
+        }
+        ^
+NT.java:18: error: class, interface, enum, or record expected
+        for (int i = 0; i < 5; i++) {
+        ^
+NT.java:18: error: class, interface, enum, or record expected
+        for (int i = 0; i < 5; i++) {
+                        ^
+NT.java:18: error: class, interface, enum, or record expected
+        for (int i = 0; i < 5; i++) {
+                               ^
+NT.java:22: error: class, interface, enum, or record expected
+                case 1 -> 
+                ^
+NT.java:24: error: class, interface, enum, or record expected
+                case 2 -> 
+                ^
+NT.java:26: error: class, interface, enum, or record expected
+                case 3 -> 
+                ^
+NT.java:28: error: class, interface, enum, or record expected
+            }
+            ^
+NT.java:32: error: class, interface, enum, or record expected
+        hasilakhir(hasil);
+        ^
+NT.java:34: error: class, interface, enum, or record expected
+        input.close(); 
+        ^
+NT.java:35: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:39: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:43: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:47: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:51: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:56: error: class, interface, enum, or record expected
+    }
+    ^
+26 errors
+Not compiled

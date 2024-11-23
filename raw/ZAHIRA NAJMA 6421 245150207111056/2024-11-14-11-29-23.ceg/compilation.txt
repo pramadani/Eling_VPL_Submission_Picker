@@ -1,0 +1,8 @@
+NT.java:16: error: ';' expected
+        double[] nilaiMasuk = {7,1,2,3,4}
+                                         ^
+NT.java:24: error: illegal start of expression
+    public static void main(String[] args) {
+    ^
+2 errors
+Not compiled

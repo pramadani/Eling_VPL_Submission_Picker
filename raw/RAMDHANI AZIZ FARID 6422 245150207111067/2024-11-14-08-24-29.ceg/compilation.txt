@@ -1,0 +1,27 @@
+NT.java:34: error: cannot find symbol
+       double angkaAwal = input.nextDouble();
+                          ^
+  symbol:   variable input
+  location: class NT
+NT.java:35: error: cannot find symbol
+        double angkaTambah = input.nextDouble();
+                             ^
+  symbol:   variable input
+  location: class NT
+NT.java:36: error: cannot find symbol
+        double angkaKurang = input.nextDouble();
+                             ^
+  symbol:   variable input
+  location: class NT
+NT.java:37: error: cannot find symbol
+        double angkaKali = input.nextDouble();
+                           ^
+  symbol:   variable input
+  location: class NT
+NT.java:38: error: cannot find symbol
+        double angkaBagi = input.nextDouble();
+                           ^
+  symbol:   variable input
+  location: class NT
+5 errors
+Not compiled

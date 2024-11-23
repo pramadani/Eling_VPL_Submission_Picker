@@ -1,0 +1,11 @@
+NT.java:27: error: illegal start of expression
+        double hasil = * angka;
+                       ^
+NT.java:32: error: illegal start of expression
+        double hasil = / angka;
+                       ^
+NT.java:41: error: illegal start of expression
+    public static void main(String[] args) {
+    ^
+3 errors
+Not compiled

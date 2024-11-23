@@ -1,0 +1,10 @@
+NT.java:21: error: variable input is already defined in method main(String[])
+        double[] input = input();
+                 ^
+NT.java:21: error: cannot find symbol
+        double[] input = input();
+                         ^
+  symbol:   method input()
+  location: class NT
+2 errors
+Not compiled

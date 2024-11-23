@@ -1,0 +1,5 @@
+NT.java:2: error: class lc51 is public, should be declared in a file named lc51.java
+public class lc51 {
+       ^
+1 error
+Not compiled

@@ -1,0 +1,7 @@
+NT.java:35: error: cannot find symbol
+		int akhir=bagi/2;
+		          ^
+  symbol:   variable bagi
+  location: class NT
+1 error
+Not compiled

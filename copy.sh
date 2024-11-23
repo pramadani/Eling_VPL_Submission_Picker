@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source_dir="results"
+source_dir="raw"
 target_dir="final"
 
 mkdir -p "$target_dir"

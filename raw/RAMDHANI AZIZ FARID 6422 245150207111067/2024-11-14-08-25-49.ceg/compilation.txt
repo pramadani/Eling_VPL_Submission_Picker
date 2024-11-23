@@ -1,0 +1,7 @@
+NT.java:34: error: cannot find symbol
+        Scanner input = new Scaneer (System.in);
+                            ^
+  symbol:   class Scaneer
+  location: class NT
+1 error
+Not compiled

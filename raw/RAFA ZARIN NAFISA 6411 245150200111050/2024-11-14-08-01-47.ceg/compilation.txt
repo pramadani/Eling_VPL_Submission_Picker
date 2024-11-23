@@ -1,0 +1,32 @@
+NT.java:19: error: cannot find symbol
+        double[] input = input();
+                         ^
+  symbol:   method input()
+  location: class NT
+NT.java:20: error: cannot find symbol
+        tambah(input[1]);
+        ^
+  symbol:   method tambah(double)
+  location: class NT
+NT.java:21: error: cannot find symbol
+        kurang(input[2]);
+        ^
+  symbol:   method kurang(double)
+  location: class NT
+NT.java:22: error: cannot find symbol
+        kali(input[3]);
+        ^
+  symbol:   method kali(double)
+  location: class NT
+NT.java:23: error: cannot find symbol
+        bagi(input[4]);
+        ^
+  symbol:   method bagi(double)
+  location: class NT
+NT.java:24: error: cannot find symbol
+        output(akhir());
+               ^
+  symbol:   method akhir()
+  location: class NT
+6 errors
+Not compiled

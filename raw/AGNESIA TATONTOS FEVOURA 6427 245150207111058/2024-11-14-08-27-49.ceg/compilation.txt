@@ -1,0 +1,8 @@
+NT.java:22: error: <identifier> expected
+static void double output(Double tambah, Double kurang, Double kali, Double bagi, Double output){
+           ^
+NT.java:22: error: '(' expected
+static void double output(Double tambah, Double kurang, Double kali, Double bagi, Double output){
+            ^
+2 errors
+Not compiled

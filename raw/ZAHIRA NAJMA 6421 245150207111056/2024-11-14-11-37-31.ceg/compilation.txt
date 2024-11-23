@@ -1,0 +1,8 @@
+NT.java:16: error: ';' expected
+        double[] nilaiMasuk = new double[5]
+                                           ^
+NT.java:39: error: reached end of file while parsing
+}
+ ^
+2 errors
+Not compiled

@@ -1,0 +1,104 @@
+NT.java:10: error: class, interface, enum, or record expected
+static int tambah(double input){
+       ^
+NT.java:12: error: class, interface, enum, or record expected
+		int awal=in.nextInt();
+		^
+NT.java:13: error: class, interface, enum, or record expected
+		int tambah=in.nextInt();
+		^
+NT.java:14: error: class, interface, enum, or record expected
+		int e1=awal+tambah;
+		^
+NT.java:15: error: class, interface, enum, or record expected
+		return e1;		
+		^
+NT.java:16: error: class, interface, enum, or record expected
+	}
+	^
+NT.java:18: error: class, interface, enum, or record expected
+	public static void main(String[] args) {
+	              ^
+NT.java:20: error: class, interface, enum, or record expected
+        tambah(input[1]);
+        ^
+NT.java:21: error: class, interface, enum, or record expected
+        kurang(input[2]);
+        ^
+NT.java:22: error: class, interface, enum, or record expected
+        kali(input[3]);
+        ^
+NT.java:23: error: class, interface, enum, or record expected
+        bagi(input[4]);
+        ^
+NT.java:24: error: class, interface, enum, or record expected
+        output(akhir());
+        ^
+NT.java:25: error: class, interface, enum, or record expected
+    }
+    ^
+NT.java:29: error: class, interface, enum, or record expected
+		for (int i = 0; i < 5; i++) {
+		^
+NT.java:29: error: class, interface, enum, or record expected
+		for (int i = 0; i < 5; i++) {
+		                ^
+NT.java:29: error: class, interface, enum, or record expected
+		for (int i = 0; i < 5; i++) {
+		                       ^
+NT.java:31: error: class, interface, enum, or record expected
+	        }
+	        ^
+NT.java:34: error: class, interface, enum, or record expected
+	    }
+	    ^
+NT.java:38: error: class, interface, enum, or record expected
+	}
+	^
+NT.java:42: error: class, interface, enum, or record expected
+		akhir=bagi(akhir)/2;
+		^
+NT.java:43: error: class, interface, enum, or record expected
+		return null;
+		^
+NT.java:44: error: class, interface, enum, or record expected
+	}
+	^
+NT.java:48: error: class, interface, enum, or record expected
+		int bagi=in.nextInt();
+		^
+NT.java:49: error: class, interface, enum, or record expected
+		int e4=kali(d)/bagi;
+		^
+NT.java:50: error: class, interface, enum, or record expected
+		return e4;
+		^
+NT.java:52: error: class, interface, enum, or record expected
+	}
+	^
+NT.java:56: error: class, interface, enum, or record expected
+        int kali=in.nextInt();
+        ^
+NT.java:57: error: class, interface, enum, or record expected
+        int e3=kurang(d)*kali;
+        ^
+NT.java:58: error: class, interface, enum, or record expected
+		return e3;
+		^
+NT.java:59: error: class, interface, enum, or record expected
+        }
+        ^
+NT.java:63: error: class, interface, enum, or record expected
+		int kurang=in.nextInt();
+		^
+NT.java:64: error: class, interface, enum, or record expected
+		int e2=(tambah(d)-kurang);
+		^
+NT.java:65: error: class, interface, enum, or record expected
+		return e2;
+		^
+NT.java:67: error: class, interface, enum, or record expected
+	}
+	^
+34 errors
+Not compiled

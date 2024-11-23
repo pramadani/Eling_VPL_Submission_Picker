@@ -1,0 +1,18 @@
+NT.java:52: error: incompatible types: double cannot be converted to double[]
+        tambah(input[1]);
+                    ^
+NT.java:53: error: incompatible types: double cannot be converted to double[]
+        kurang(input[2]);
+                    ^
+NT.java:54: error: incompatible types: double cannot be converted to double[]
+        kali(input[3]);
+                  ^
+NT.java:55: error: incompatible types: double cannot be converted to double[]
+        bagi(input[4]);
+                  ^
+NT.java:56: error: 'void' type not allowed here
+        output(akhir());
+                    ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+5 errors
+Not compiled

@@ -1,0 +1,32 @@
+NT.java:13: error: cannot find symbol
+        hasilakhir = input[0];
+        ^
+  symbol:   variable hasilakhir
+  location: class NT
+NT.java:18: error: cannot find symbol
+        hasilakhir += angkaTambah;
+        ^
+  symbol:   variable hasilakhir
+  location: class NT
+NT.java:22: error: cannot find symbol
+        hasilakhir -= angkaKurang;
+        ^
+  symbol:   variable hasilakhir
+  location: class NT
+NT.java:26: error: cannot find symbol
+        hasilakhir *= angkaKali;
+        ^
+  symbol:   variable hasilakhir
+  location: class NT
+NT.java:30: error: cannot find symbol
+        hasilakhir /= angkaBagi;
+        ^
+  symbol:   variable hasilakhir
+  location: class NT
+NT.java:34: error: cannot find symbol
+        return hasilakhir / 2;
+               ^
+  symbol:   variable hasilakhir
+  location: class NT
+6 errors
+Not compiled

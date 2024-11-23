@@ -1,0 +1,12 @@
+NT.java:67: error: cannot find symbol
+        Calculator calc = new Calculator();
+        ^
+  symbol:   class Calculator
+  location: class NT
+NT.java:67: error: cannot find symbol
+        Calculator calc = new Calculator();
+                              ^
+  symbol:   class Calculator
+  location: class NT
+2 errors
+Not compiled

@@ -1,0 +1,5 @@
+NT.java:3: error: class NT1 is public, should be declared in a file named NT1.java
+public class NT1 {
+       ^
+1 error
+Not compiled

@@ -1,0 +1,48 @@
+NT.java:15: error: cannot find symbol
+        this.angkaTambah = angkaTambah;
+            ^
+  symbol: variable angkaTambah
+NT.java:16: error: cannot find symbol
+        this.angkaKurang = angkaKurang;
+            ^
+  symbol: variable angkaKurang
+NT.java:17: error: cannot find symbol
+        this.angkaKali = angkaKali;
+            ^
+  symbol: variable angkaKali
+NT.java:18: error: cannot find symbol
+        this.angkaBagi = angkaBagi;
+            ^
+  symbol: variable angkaBagi
+NT.java:22: error: cannot find symbol
+        angkaAwal += angkaTambah;
+                     ^
+  symbol:   variable angkaTambah
+  location: class NT
+NT.java:26: error: cannot find symbol
+        angkaAwal -= angkaKurang;
+                     ^
+  symbol:   variable angkaKurang
+  location: class NT
+NT.java:30: error: cannot find symbol
+        angkaAwal *= angkaKali;
+                     ^
+  symbol:   variable angkaKali
+  location: class NT
+NT.java:34: error: cannot find symbol
+        angkaAwal /= angkaBagi;
+                     ^
+  symbol:   variable angkaBagi
+  location: class NT
+NT.java:52: error: cannot find symbol
+        Calculator calculator = new Calculator();
+        ^
+  symbol:   class Calculator
+  location: class NT
+NT.java:52: error: cannot find symbol
+        Calculator calculator = new Calculator();
+                                    ^
+  symbol:   class Calculator
+  location: class NT
+10 errors
+Not compiled
